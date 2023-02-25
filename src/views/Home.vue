@@ -37,19 +37,23 @@ export default {
         },
         {
           name: "2",
-          description: ""
+          description: "",
+          thumbnail: require("@/assets/roadView.mp4")
         },
         {
           name: "3",
-          description: ""
+          description: "",
+          thumbnail: require("@/assets/noStress.mp4")
         },
         {
           name: "4",
-          description: ""
+          description: "",
+          thumbnail: require("@/assets/roadView.mp4")
         },
         {
           name: "5",
-          description: ""
+          description: "",
+          thumbnail: require("@/assets/dog.jpeg")
         },
         {
           name: "6",

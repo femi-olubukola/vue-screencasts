@@ -20,7 +20,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   },
   {
-    path: '/video',
+    path: '/video/:id',
     name: 'video-watch',
     component: VideoWatch,
   }
